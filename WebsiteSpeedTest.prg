@@ -1,4 +1,4 @@
-2019 (c) Copyright Eric Lendvai - License MIT
+// 2019 (c) Copyright Eric Lendvai - License MIT
 
 #require "hbwin"
 
