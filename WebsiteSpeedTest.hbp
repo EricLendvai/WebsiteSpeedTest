@@ -1,0 +1,12 @@
+-hbexe
+#-inc
+-trace
+-gtcgi
+#-gc3
+
+hbwin.hbc
+hbct.hbc
+
+WebsiteSpeedTest.prg
+
+Debugger.prg
